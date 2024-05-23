@@ -248,6 +248,7 @@ elif my_page == 'Indicators':
 elif my_page == 'Profiles':
     
     st.title("Cluster Profiling of Women based on the Empowerment Indicators")
+    st.image('clustering.jpg')
     
 #     # load dataset for clustering
 #     df, meta = pyreadstat.read_sav('data/PHIR71FL.SAV')
